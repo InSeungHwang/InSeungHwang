@@ -4,6 +4,6 @@
 
 **아이캔두잇**
 _유캔두잇_
-<u> 위캔두잇 </u>
+<u>위캔두잇</u>
 
-[구글][https://www.google.com/]
+[구글](https://www.google.com/)
